@@ -1,0 +1,24 @@
+.gradle
+<<<<<<< HEAD
+build/
+*.jar
+
+=======
+/build/
+>>>>>>> e611b2cb4ca5f93266fca23d3ebbab8c8c253182
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+<<<<<<< HEAD
+.gradletasknamecache
+=======
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+>>>>>>> e611b2cb4ca5f93266fca23d3ebbab8c8c253182
